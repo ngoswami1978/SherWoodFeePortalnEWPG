@@ -1,0 +1,32 @@
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.dll
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.pdb
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.dll
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.pdb
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\Microsoft.ApplicationBlocks.Data.dll
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.csprojResolveAssemblyReference.cache
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\Newtonsoft.Json.dll
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\Newtonsoft.Json.pdb
+F:\D Drive\Practice\SherWoodFeePortal\SherWoodFeePortal\bin\Newtonsoft.Json.xml
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.dll
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.pdb
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.csprojResolveAssemblyReference.cache
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.dll
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.pdb
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.dll
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.pdb
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.dll
+D:\Projects\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.pdb
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\SherWoodFeePortal.pdb
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\HtmlRenderer.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\HtmlRenderer.PdfSharp.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\PdfSharp.Charting.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\PdfSharp.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\HtmlRenderer.pdb
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\HtmlRenderer.PdfSharp.pdb
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\PdfSharp.xml
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\PdfSharp.Charting.xml
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\de\PdfSharp.resources.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\bin\de\PdfSharp.Charting.resources.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.dll
+C:\inetpub\wwwroot\SherWoodFeePortalnEW\SherWoodFeePortal\SherWoodFeePortal\obj\Debug\SherWoodFeePortal.pdb

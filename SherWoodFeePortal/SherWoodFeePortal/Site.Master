@@ -1,0 +1,158 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SherWoodFeePortal.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>SherWood Online Payment::</title>
+     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+ 
+ 
+    <!-- Theme CSS -->
+  <%--<link href="css/freelancer.css" rel="stylesheet">--%>
+   <%--<link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">--%>
+    <!-- Custom Fonts -->
+<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="page-top" class="index">
+    <form runat="server">
+
+
+
+
+
+    <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="#page-top"><img src="../img/logo5.png" /></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+
+                    
+                 <li> <a href="#">My Account </a></li>
+                    
+                 
+                    <li class="page-scroll">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#contact">Contact</a>
+                    </li>
+
+                   
+                    <li> <a href="#">Log Out </a></li>
+
+                    <li class="login"> <a href="#">Welcome <asp:Label ID="lblName" runat="server" Text=""></asp:Label> </a></li>
+                </ul>
+                
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                   <%-- <img class="img-responsive" src="img/profile.png" alt="">--%>
+                    <div class="intro-text">
+                        <span class="skills">Welcome To Sherwood Online Payment</span>
+                        <hr class="star-light">
+                        <span class="skills"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="page">
+        <div class="main">
+            <div class="container">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </div>
+        </div>
+    </div>
+    <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>To attempt to measure the extent of an individuals success in making full use of his/her talent and opportunities. To develop fluency (oral and written) in the use of English (medium of instruction) as well as the mother tongue/national language. </p>
+                </div>
+                <div class="col-lg-4">
+                    <p>To recognize and accept individual differences in ability and talent and to hold every child/individual in esteem in his/her own right. To attempt to identify and, as far as possible, meet the special needs of each individual/child in the college community, physical, intellectual, social, emotional, aesthetic and spiritual. 
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contact Me</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    Principal
+Sherwood College
+Nainital - 263002 Uttarakhand, INDIA 
+
+
+                            </div>
+                      
+                    
+            </div>
+        </div>
+    </section>
+    <div class="footer">
+    </div>
+    </form>
+    
+    <%--<script src="vendor/jquery/jquery.min.js"></script>--%>
+    <!-- Bootstrap Core JavaScript -->
+   <%-- <script src="vendor/bootstrap/js/bootstrap.min.js"></script>--%>
+    <!-- Plugin JavaScript -->
+  <%--  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>--%>
+    <!-- Contact Form JavaScript -->
+   <%-- <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>--%>
+    <!-- Theme JavaScript -->
+   <%-- <script src="js/freelancer.min.js"></script>--%>
+</body>
+</html>
